@@ -10,15 +10,8 @@ Faker==9.8.2
 inflection==0.5.1
 itypes==1.2.0
 Jinja2==3.0.3
-jsk-perception==1.2.15
-jsk-recognition-utils==1.2.15
-jsk_data==2.2.11
-jsk_topic_tools==2.2.11
-kdl_parser_py==1.13.1
-laser_geometry==1.6.7
+
 MarkupSafe==2.0.1
-message_filters==1.14.11
-openni2_launch==1.5.1
 packaging==21.2
 psycopg2==2.9.2
 PyJWT==2.3.0

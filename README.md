@@ -15,6 +15,10 @@ python -m pip install djangorestframework-simplejwt
 python -m pip install drf-yasg
 
 python -m pip install faker
+python -m pip install django-cors-headers
+python -m pip install django-heroku
+python -m pip install gunicorn
+
 
 
 

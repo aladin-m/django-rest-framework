@@ -1,4 +1,3 @@
-angles==1.9.12
 asgiref==3.4.1
 bondpy==1.8.5
 camera_calibration==1.15.0

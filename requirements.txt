@@ -1,7 +1,5 @@
 certifi==2021.10.8
 charset-normalizer==2.0.7
-controller_manager==0.18.3
-controller_manager_msgs==0.18.3
 coreapi==2.3.3
 coreschema==0.0.4
 cv_bridge==1.13.0

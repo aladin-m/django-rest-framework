@@ -45,7 +45,8 @@ INSTALLED_APPS = [
     'drf_yasg',
     'authentication',
     'expenses',
-    'income'
+    'income',
+    'userstats'
 ]
 
 SWAGGER_SETTINGS = {

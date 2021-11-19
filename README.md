@@ -24,3 +24,11 @@ python -m pip install gunicorn
 
 ###### ======== redis ======== ######
 docker run -p 6379:6379 -d redis:5
+
+
+git push heroku deploy:master
+
+
+
+
+https://www.youtube.com/watch?v=rJWAGQ0JxxI
